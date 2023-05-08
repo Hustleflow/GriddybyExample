@@ -6,7 +6,7 @@
 }
 
 .header {
-    background-image: url(./images/header1.png);
+    background-image: url(./images/header2.png);
     background-position: 5rem;
     background-color: black;
     height: 285px;
@@ -124,7 +124,7 @@ a:hover.nav {
 
 .card2{
     margin-top: 30px;
-    background-image: url(./images/Grid2.png);
+    background-image: url(./images/header1.png);
     height:180px;
     margin-right: 70px; 
     border: 1px solid lightslategray;
@@ -173,7 +173,7 @@ body {
 }
 
 .card4 {
-    background-image: url(./images/Grid2.png);
+    background-image: url(./images/header1.png);
     border: 1px solid lightslategray;
     border-radius: 1px;
     margin-top: 30px;
@@ -199,7 +199,7 @@ body {
 }
 
 .card5 {
-    background-image: url(./images/Grid2.png);
+    background-image: url(./images/header1.png);
     border: 1px solid lightslategray;
     border-radius: 1px;
     margin-top: 30px;
@@ -225,7 +225,7 @@ body {
 
 .card6{
     margin-top: 30px;
-    background-image: url(./images/Grid2.png);
+    background-image: url(./images/header1.png);
     height:170px;
     margin-left: 70px;
     width:870px;
@@ -249,7 +249,7 @@ body {
 }
 .card7{
     margin-top: 30px;
-    background-image: url(./images/Grid2.png);
+    background-image: url(./images/header1.png);
     height:170px;
     margin-right: 70px;
     margin-left:250px;
@@ -273,7 +273,7 @@ body {
 }
 .card8 {
     margin-top: 30px;
-    background-image: url(./images/Grid2.png);
+    background-image: url(./images/header1.png);
     height:150px;
     margin-left: 70px;
    
@@ -296,7 +296,7 @@ body {
 }
 .card9 {
     margin-top: 30px;
-    background-image: url(./images/Grid2.png);
+    background-image: url(./images/header1.png);
     height:150px;
     margin-left: 1px;
     border: 1px solid lightslategray;
@@ -319,7 +319,7 @@ body {
 }
 .card10 {
     margin-top: 30px;
-    background-image: url(./images/Grid2.png);
+    background-image: url(./images/header1.png);
     height:150px;
     margin-right: 70px;  
     border: 1px solid lightslategray;
@@ -340,7 +340,7 @@ body {
     font-weight: lighter;
 }
 .card11 {
-    background-image: url(./images/Grid2.png);
+    background-image: url(./images/header1.png);
     margin-top:30px;
     margin-left:70px;
     margin-right:70px;
@@ -363,7 +363,7 @@ body {
     font-weight: lighter;
 }
 .footer {
-    background-image: url(./images/header1.png);
+    background-image: url(./images/header2.png);
     background-position: 5rem;
     background-color: black;
     height: 230px;
